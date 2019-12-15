@@ -11,4 +11,5 @@ Compilation instructions:
 In Unix shell:
 
 gcc Decimal_Binary_Convertor.c
+
 ./a.out
